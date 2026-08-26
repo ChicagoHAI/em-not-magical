@@ -1,0 +1,9 @@
+# Section 3 pipeline dependencies.
+# Versions below are the ones we tested with; loosen if needed.
+torch==2.10.0
+transformers==5.8.0
+vllm==0.19.0          # generation (Phase 1). Set VLLM_USE_DEEP_GEMM=0 if the
+                      # deep_gemm import fails on your CUDA/torch build.
+httpx==0.28.1         # judge API calls
+tqdm==4.67.1
+python-dotenv==1.1.1  # loads .env

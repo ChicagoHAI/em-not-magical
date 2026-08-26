@@ -1,0 +1,6 @@
+# Local environment (contains secrets / machine-specific paths)
+.env
+
+# Python
+__pycache__/
+*.pyc
