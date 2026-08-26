@@ -26,5 +26,11 @@ Code for reproducing the experiments in the paper.
 
 ## Sections
 
+Each section is self-contained; see its own README for setup and exact commands.
+
 - [`sec3/`](sec3/) — Section 3: response generation, activation extraction, and
   LLM-judge scoring. See [`sec3/README.md`](sec3/README.md).
+- [`sec4/`](sec4/) — Section 4: what EM is *not* (data format, direction transfer,
+  evil persona). See [`sec4/README.md`](sec4/README.md).
+- [`sec5/`](sec5/) — Section 5: predicting EM under prompt perturbations. See
+  [`sec5/README.md`](sec5/README.md).
