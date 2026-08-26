@@ -1,4 +1,4 @@
-# Emergent Misalignment — Code Release
+# Emergent Misalignment Is Not Magical
 
 ## We are working on releasing all the artifacts used in the paper, including model checkpoints, generated responses, extracted activations, etc. We will update the links in this repo. You can also email mingxuanl@uchicago.edu for any questions or requests.
 
