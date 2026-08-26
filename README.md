@@ -1,5 +1,7 @@
 # Emergent Misalignment — Code Release
 
+## We are working on releasing all the artifacts used in the paper, including model checkpoints, generated responses, extracted activations, etc. We will update the links in this repo. You can also email mingxuanl@uchicago.edu for any questions or requests.
+
 Code for reproducing the experiments in the paper.
 
 ## Setup
